@@ -1,0 +1,19 @@
+POST /generate.phtml HTTP/1.1
+Host: genmat.blindage.org
+Connection: keep-alive
+Content-Length: 2934
+Accept: */*
+DNT: 1
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Origin: http://genmat.blindage.org
+Referer: http://genmat.blindage.org/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ym_uid=1589825940631088850; _ym_d=1589825940; _ym_isad=1; _pk_ref.1.5e7c=%5B%22%22%2C%22%22%2C1589826198%2C%22http%3A%2F%2Fgenmat.blindage.org%2F%22%5D; _pk_id.1.5e7c=5eb0fa9ce2feab2b.1589826198.1.1589826198.1589826198.; _pk_ses.1.5e7c=1
+
+
+text=%5BS%3A3%3AJ%3AI%5D
+
+###
